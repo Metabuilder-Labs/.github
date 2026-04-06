@@ -16,9 +16,9 @@ To get there, we're running multiple product experiments across consumer, B2B, a
 
 ⭐ **[TwinkleBot](https://twinklebot.app)** — Consumer app for parents who want to keep kids entertained with AI-powered personalized storybooks — without the brain-rot.
 
-💰 **PartnerPay** — Tools for the "shared owner" future, where agentically powered companies transform the traditional employer-employee relationship.
+💰 **[PartnerPay](https://partnerpay.app/)** — Tools for the "shared owner" future, where agentically powered companies transform the traditional employer-employee relationship.
 
-🏠 **TryCrib** — B2B2C platform solving pain points for home buyers and sellers in a high interest rate environment.
+🏠 **[TryCrib](https://www.trycrib.com/)** — B2B2C platform solving pain points for home buyers and sellers in a high interest rate environment.
 
 ---
 
